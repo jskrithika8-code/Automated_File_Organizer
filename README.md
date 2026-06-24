@@ -38,9 +38,3 @@ File movement log
 🖥 Graphical User Interface
 Folder browsing
 File preview
-
-<img width="536" height="500" alt="image" src="https://github.com/user-attachments/assets/cd0c9c96-9b70-4b79-bd2f-f525e1dc5465" />
-
-Recursive sorting option
-Color-coded categories
-Summary report window
