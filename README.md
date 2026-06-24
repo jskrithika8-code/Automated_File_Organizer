@@ -7,12 +7,12 @@ Project Name: Automated File Organizer
 Project Scope: Develop a desktop application that automatically organizes files into categorized folders, safely handles duplicate files, supports recursive sorting of subfolders, and generates detailed summary reports through a user-friendly graphical interface. 
 
 
- Introduction
+ > Introduction
 
 Auto File Sorter is a Python-based desktop application that automatically organizes files into folders based on their file extensions. It helps users manage cluttered directories quickly and efficiently.
 
 
-Features
+> Features
 
 Automatic file sorting
 
@@ -26,7 +26,7 @@ User-friendly Tkinter GUI
 
 
 
-Technologies Used
+> Technologies Used
 
 Python
 
@@ -40,10 +40,10 @@ Pathlib
 
 
 
-Documentation
+> Documentation
 
 
-Working
+> Working
 
 Select a folder using the Browse button.
 
@@ -63,7 +63,7 @@ Display results through the GUI.
 
 
 
-Categories Supported
+> Categories Supported
 
 Documents
 
@@ -81,7 +81,7 @@ Others
 
 
 
-System Requirements
+> System Requirements
 
 
 Python 3.x
@@ -92,7 +92,7 @@ Windows / Linux / macOS
 
 
 
-Conclusion
+> Conclusion
 
 
 The Automated File Organizer simplifies file management by automatically categorizing files, handling duplicates safely, and generating useful reports through an intuitive graphical interface
