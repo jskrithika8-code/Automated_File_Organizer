@@ -11,6 +11,7 @@ Project Scope: Develop a desktop application that automatically organizes files 
 Auto File Sorter is a Python-based desktop application that automatically organizes files into folders based on their file extensions. It helps users manage cluttered directories quickly and efficiently.
 
 Features
+
 Automatic file sorting
 Duplicate file handling
 Recursive folder sorting
