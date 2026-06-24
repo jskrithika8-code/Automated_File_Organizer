@@ -25,6 +25,7 @@ Summary report generation
 User-friendly Tkinter GUI
 
 
+
 Technologies Used
 
 Python
@@ -38,7 +39,9 @@ Shutil
 Pathlib
 
 
+
 Documentation
+
 
 Working
 
@@ -59,6 +62,7 @@ Generate a summary report.
 Display results through the GUI.
 
 
+
 Categories Supported
 
 Documents
@@ -76,7 +80,9 @@ Programs & Code
 Others
 
 
+
 System Requirements
+
 
 Python 3.x
 
@@ -85,6 +91,8 @@ Tkinter Library
 Windows / Linux / macOS
 
 
+
 Conclusion
+
 
 The Automated File Organizer simplifies file management by automatically categorizing files, handling duplicates safely, and generating useful reports through an intuitive graphical interface
