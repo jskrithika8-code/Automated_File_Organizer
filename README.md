@@ -1,40 +1,54 @@
-# Automated_File_Organizer
+Automated_File_Organizer 
 
-Intern ID: CITS5313
-Full Name: J.S.KRITHIKA
-No. of Weeks:	4 Weeks 
-Project Name: Automated File Organizer
-Project Scope:	Develop a desktop application that automatically organizes files into categorized folders, safely handles duplicate files, supports recursive sorting of subfolders, and generates detailed summary reports through a user-friendly graphical interface.
+Intern ID: CITS5313  
+Full Name: J.S.KRITHIKA  
+No. of Weeks: 4 Weeks  
+Project Name: Automated File Organizer  
+Project Scope: Develop a desktop application that automatically organizes files into categorized folders, safely handles duplicate files, supports recursive sorting of subfolders, and generates detailed summary reports through a user-friendly graphical interface. 
 
-Project Description
+ Introduction
 
-Auto File Sorter is a Python-based desktop application that helps users organize cluttered folders efficiently. The application automatically sorts files based on their extensions into predefined category folders, prevents data loss by safely renaming duplicate files, supports recursive sorting of nested directories, and provides a detailed summary report after each sorting operation.
+Auto File Sorter is a Python-based desktop application that automatically organizes files into folders based on their file extensions. It helps users manage cluttered directories quickly and efficiently.
 
- Features
+Features
+Automatic file sorting
+Duplicate file handling
+Recursive folder sorting
+Summary report generation
+User-friendly Tkinter GUI
 
-Automatic File Sorting
-Sorts files into category folders automatically.
-Creates folders if they do not already exist.
+Technologies Used
+Python
+Tkinter
+OS Module
+Shutil
+Pathlib
 
-Duplicate File Handling
-Prevents overwriting existing files.
-Automatically renames duplicates using:
-File (1).txt
-File (2).txt
+Documentation
 
-Recursive Sorting
-Optionally sorts files inside subfolders.
-Moves all files into top-level category folders.
-Removes empty directories after sorting.
+Working
+Select a folder using the Browse button.
+Scan files in the selected directory.
+Detect file extensions and categories.
+Create category folders if required.
+Handle duplicate filenames safely.
+Move files to appropriate folders.
+Generate a summary report.
+Display results through the GUI.
 
-Summary Report
-Displays:
-Total files processed
-Category-wise file count
-Number of folders created
-Duplicates renamed
-Processing time
-File movement log
-🖥 Graphical User Interface
-Folder browsing
-File preview
+Categories Supported
+Documents
+Images
+Videos
+Audio
+Archives
+Programs & Code
+Others
+
+System Requirements
+Python 3.x
+Tkinter Library
+Windows / Linux / macOS
+
+Conclusion
+The Automated File Organizer simplifies file management by automatically categorizing files, handling duplicates safely, and generating useful reports through an intuitive graphical interface
